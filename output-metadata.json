@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.genar.hmssandbox.huawei",
+  "variantName": "processDebugResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 11,
+      "versionName": "\u00271.22011\u0027",
+      "outputFile": "feature_devicevirtualizationengine-debug.apk"
+    }
+  ]
+}
